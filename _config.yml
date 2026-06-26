@@ -24,9 +24,9 @@ repository               : "krngkr/krngkr.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Kriangkrai Limthong"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Computer Engineering Instructor"
   location         : "Thailand"
   employer         : "Bangkok University"
   uri              : # URL
