@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "Dr. Kriangkrai Limthong"
+title: "Kriangkrai Limthong, Ph.D."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-# Kriangkrai Limthong, Ph.D.
-### Department of Computer and Robotics Engineering, Bangkok University
+## Department of Computer and Robotics Engineering, Bangkok University
 
 I am a Lecturer in the Department of Computer and Robotics Engineering, School of Engineering at Bangkok University, Thailand, where I have been serving since 2009. I received my Ph.D. in Informatics from the Graduate University for Advanced Studies (Sokendai), Japan, in 2015.
 
