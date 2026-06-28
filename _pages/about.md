@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Kriangkrai Limthong, Ph.D. | Department of Computer and Robotics Engineering, Bangkok University"
+title: "Kriangkrai Limthong, Ph.D. Department of Computer and Robotics Engineering, Bangkok University"
 author_profile: true
 redirect_from: 
   - /about/
