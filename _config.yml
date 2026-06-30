@@ -359,3 +359,9 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  parse_block_html: true
