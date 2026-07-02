@@ -12,30 +12,28 @@ Kriangkrai Limthong graduated with a B.Eng. degree (Second Class Honors) in Comp
 
 ## Last Activities
 
-<table style="border: none; border-collapse: collapse;">
+<table style="border: none; border-collapse: collapse; width: 100%;">
   <tr style="border: none;">
-    <td style="border: none; padding: 0;">
+    <td style="border: none; padding: 0 0 30px 0; width: 220px;" valign="top">
       <a data-flickr-embed="true" href="https://www.flickr.com/photos/76721412@N07/albums/72177720334462717" title="CISCO Connect 2026 Thailand">
         <img src="https://live.staticflickr.com/65535/55367802240_a63fbcdaeb_n.jpg" width="200" height="150" alt="CISCO Connect 2026 Thailand"/>
       </a>
     </td>
-    <td valign="top" style="border: none; padding-left: 20px;">
-      <h2><strong>Business Conference:</strong></h2>
+    <td valign="top" style="border: none; padding: 0 0 30px 20px;">
+      <h2 style="margin-top: 0;"><strong>Business Conference:</strong></h2>
       <h3>CISCO Connect 2026 Thailand</h3>
       <p>Date: Wednesday, July 1, 2026<br>Location: Grande Centre Point Lumphini Bangkok</p>
     </td>
   </tr>
-</table>
 
-<table style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
-    <td style="border: none; padding: 0;">
+    <td style="border: none; padding: 0; width: 220px;" valign="top">
       <a data-flickr-embed="true" href="https://www.flickr.com/photos/76721412@N07/albums/72177720334473749" title="Lenovo AI powers a world gone football">
         <img src="https://live.staticflickr.com/65535/55365832860_871ca851a9_w.jpg" width="200" height="150" alt="Lenovo AI powers a world gone football"/>
       </a>
     </td>
     <td valign="top" style="border: none; padding-left: 20px;">
-      <h2><strong>Business Conference:</strong></h2>
+      <h2 style="margin-top: 0;"><strong>Business Conference:</strong></h2>
       <h3>Lenovo AI powers a world gone football</h3>
       <p>Date: Tuesday, June 30, 2026<br>Location: Carlton Hotel Bangkok</p>
     </td>
