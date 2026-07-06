@@ -7,7 +7,7 @@ excerpt: ''
 date: 2014-08-05
 venue: 'IEICE Transactions on Information and Systems'
 slidesurl: ''
-paperurl: 'https://www.jstage.jst.go.jp/article/transinf/E97.D/8/E97.D_2084/_article'
+paperurl: 'https://drive.google.com/file/d/0B7pMN4njPqm-ZlI5M1ZxdnJ3UXM/edit?usp=sharing'
 bibtexurl: ''
 citation: ''
 ---
