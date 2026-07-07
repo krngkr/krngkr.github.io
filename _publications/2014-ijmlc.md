@@ -2,7 +2,7 @@
 title: "Performance of Interval-Based Features in Anomaly Detection by Using Machine Learning Approach"
 collection: publications
 category: manuscripts
-permalink: /2014-ijmlc/
+permalink: /publication/2014-ijmlc/
 excerpt: ''
 date: 2014-06-01
 venue: 'International Journal of Machine Learning and Computing'
