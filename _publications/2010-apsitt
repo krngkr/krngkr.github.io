@@ -7,5 +7,6 @@ excerpt: ''
 date: 2010-06-15
 venue: 'Computational Science and Engineering (ANSCSE), 2011 15th International Annual Symposium on'
 paperurl: '/files/publications/apsitt2010.pdf'
+bibtexurl: '/files/publications/apsitt2010.bib'
 citation: 'Limthong, K.; Tawsook, T.;, "An Experiment on Naive Bayes Classifier Detecting Network Traffic Anomalies," Computational Science and Engineering (ANSCSE), 2011 15th International Annual Symposium on, vol., no., pp.543-547, 30 March-2 April 2011.'
 ---
