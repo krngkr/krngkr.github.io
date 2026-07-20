@@ -2,7 +2,7 @@
 title: "A Wavelet-Based Anomaly Detection in Outbound Network Traffic"
 collection: publications
 category: nconferences
-permalink: /publications/2026-ent/
+permalink: /publications/2010-ncsec/
 excerpt: ''
 date: 2010-11-17
 venue: 'National Computer Science and Engineering Conference (NCSEC)'
