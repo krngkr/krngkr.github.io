@@ -2,7 +2,7 @@
 title: "Wavelet-Based Anomaly Detection of Computer Network Traffic"
 collection: publications
 category: nconferences
-permalink: /publications/2026-ent/
+permalink: /publications/2009-eecon/
 excerpt: ''
 date: 2009-10-29
 venue: '32nd Electrical Engineering Conference (EECON)'
