@@ -15,6 +15,19 @@ Kriangkrai Limthong graduated with a B.Eng. degree (Second Class Honors) in Comp
 <table style="border: none; border-collapse: collapse; width: 100%;">
   <tr style="border: none;">
     <td style="border: none; padding: 0 0 30px 0; width: 220px;" valign="top">
+      <a data-flickr-embed="true" href="https://www.flickr.com/photos/76721412@N07/albums/72177720334780915" title="Com7 Intelligent Bangkok Summit 2026">
+        <img src="https://live.staticflickr.com/65535/55410367796_d4a13450cd_n.jpg" width="200" height="150" alt="Com7 Intelligent Bangkok Summit 2026"/>
+      </a>
+    </td>
+    <td valign="top" style="border: none; padding: 0 0 30px 20px;">
+      <h2 style="margin-top: 0;"><strong>Business Conference:</strong></h2>
+      <h3>Com7 Intelligent Bangkok Summit 2026</h3>
+      <p>Date: Wednesday, July 22, 2026<br>Location: Renaissance Bangkok Ratchaprasong</p>
+    </td>
+  </tr>
+  
+  <tr style="border: none;">
+    <td style="border: none; padding: 0 0 30px 0; width: 220px;" valign="top">
       <a data-flickr-embed="true" href="https://www.flickr.com/photos/76721412@N07/albums/72177720334462717" title="CISCO Connect 2026 Thailand">
         <img src="https://live.staticflickr.com/65535/55367802240_a63fbcdaeb_n.jpg" width="200" height="150" alt="CISCO Connect 2026 Thailand"/>
       </a>
