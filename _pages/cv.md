@@ -17,20 +17,32 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* June 2009: Computer Engineering Instructor
+  * Bangkok University
+  * Duties includes: Instructor in Department of Computer and Robotics Engineering, School of Engineering.
+  * Supervisor: Asst. Prof.Dr.Wisarn Patchoo
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* September 2017: Data Scientist
+  * Western Digital
+  * Duties includes:
+    
+    Introduction: Development of Machine Learning Models to Facilitate Test-Capex Reduction
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+    Objectives: The objective is to help develop and deploy context-specific and robust Machine Learning Algorithm(s) for the drive grading/Test Time reduction project. The target products are Client as well as Capacity Enterprise.
+
+    Detailed Scope of Work:
+    This project focusses on
+    - Building a successful set of models, using Machine Learning (or possibly Deep Learning) algorithms in Open Source environment.
+    - Working with rest of the IIoT team (and possibly, larger Analytics teams) in exploring predictive and efficient algorithms that aid with rare event detection.
+    - Working with WD partners in scalable deployment of such models in real-world situation
+
+* June 1999: System Engineer
+  * Thailand Post Co.,Ltd.
+  * Duties included: Administrate Oracle databases and a variety of operating system, including IBM AIX, Sun Solaris, and Microsoft Windowns 2000 Servers.
+
+* Febuary 1998: System Engineer
+  * Advanced Info Service Plc.
+  * Duties included: Administrate Oracle databases and a variety of operating system, including IBM AIX, Sun Solaris, and Microsoft NT Servers.
   
 Skills
 ======
