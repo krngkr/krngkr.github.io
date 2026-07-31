@@ -8,7 +8,7 @@ redirect_from:
 ---
 # Computer and Robotics Engineering, Bangkok University
 
-Kriangkrai Limthong graduated with a B.Eng. degree (Second Class Honors) in Computer Engineering from Sripatum University, Thailand, and subsequently obtained his M.Eng. degree in Computer Engineering from Kasetsart University, Thailand. He then accumulated industry experience working as a Systems Engineer at Advanced Info Service PLC and Thailand Post Co., Ltd. He pursued his doctoral research in Japan, receiving his Ph.D. in Informatics from the Department of Informatics at The Graduate University for Advanced Studies (SOKENDAI) in 2015. Since 2009, he has served as a faculty member and instructor in the Department of Computer and Robotics Engineering, School of Engineering, Bangkok University, Thailand. His research focuses on network traffic measurement, computer security, signal processing techniques, and the development and application of machine learning methods.
+Kriangkrai Limthong received a B.Eng (2nd Honors) degree in Computer Engineering from Sripatum University; and a M.Eng degree in Computer Engineering from Kasetsart University, Thailand. He worked as a Systems Engineer at Advanced Info Service PLC. and Thailand Post Co., Ltd. for several years. After that he pursued and received a Ph.D. degree in the Department of Informatics from the Graduate University of Advanced Studies (SOKENDAI), Japan. He has currently be an instructor in the Department of Computer and Robotics Engineering, School of Engineering, Bangkok University, Thailand, since 2009. His research interests are network traffic measurement, computer security, signal processing techniques, and machine learning methods and applications.
 
 ## Last Activities
 
