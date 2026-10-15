@@ -7,6 +7,7 @@ author_profile: true
 
 If you have any questions, collaboration proposals, or just want to say hi, feel free to drop a message using the form below.
 
+<div markdown="0">
 <form action="https://api.web3forms.com/submit" method="POST" style="margin-top: 20px;">
 
   <!-- แทนที่ YOUR_ACCESS_KEY_HERE ด้วย Access Key ที่ได้จาก Web3Forms -->
@@ -38,3 +39,4 @@ If you have any questions, collaboration proposals, or just want to say hi, feel
 
   <button type="submit" style="background-color: #007acc; color: white; padding: 10px 20px; border: none; border-radius: 4px; cursor: pointer;">Send Message</button>
 </form>
+</div>
