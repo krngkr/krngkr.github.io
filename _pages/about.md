@@ -15,6 +15,19 @@ Kriangkrai Limthong received a B.Eng (2nd Honors) degree in Computer Engineering
 <table style="border: none; border-collapse: collapse; width: 100%;">
   <tr style="border: none;">
     <td style="border: none; padding: 0 0 30px 0; width: 220px;" valign="top">
+      <a data-flickr-embed="true" href="https://www.flickr.com/photos/76721412@N07/albums/72177720336988988" title="EECON-49 Intelligent technology and innovation for human sustainability">
+        <img src="https://live.staticflickr.com/65535/55661539484_056582162d_n.jpg" width="200" height="150" alt="EECON-49 Intelligent technology and innovation for human sustainability"/>
+      </a>
+    </td>
+    <td valign="top" style="border: none; padding: 0 0 30px 20px;">
+      <h2 style="margin-top: 0;"><strong>Academic Conference:</strong></h2>
+      <h3>EECON-49 Intelligent technology and innovation for human sustainability</h3>
+      <p>Date: November 18-20, 2026<br>Location: Bangsaen Heritage Hotel</p>
+    </td>
+  </tr>
+  
+  <tr style="border: none;">
+    <td style="border: none; padding: 0 0 30px 0; width: 220px;" valign="top">
       <a data-flickr-embed="true" href="https://www.flickr.com/photos/76721412@N07/albums/72177720334780915" title="Com7 Intelligent Bangkok Summit 2026">
         <img src="https://live.staticflickr.com/65535/55410367796_d4a13450cd_n.jpg" width="200" height="150" alt="Com7 Intelligent Bangkok Summit 2026"/>
       </a>
